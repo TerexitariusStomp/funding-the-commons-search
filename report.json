@@ -1,0 +1,650 @@
+{
+  "config": "funding-the-commons",
+  "slug": "funding-the-commons-search",
+  "videos": 446,
+  "transcribed": 319,
+  "skipped": [
+    {
+      "id": "Y3CZQE_zNtQ",
+      "title": "Toward Universal Access to All Knowledge – San Francisco 2025",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "TwTyjQyRSVQ",
+      "title": "Opening Words – San Francisco 2025",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "X2F023qklzE",
+      "title": "Funding the Commons in Taipei - Dec 2023",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "GOR-qGKPlH0",
+      "title": "6. How to Build Digital Public Goods With the Public - Taipei 2023",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "NDPwvU8UwgY",
+      "title": "8. Supporting the Digital Art Ecosystem - Taipei 2023",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "pYVjfVaXlXk",
+      "title": "23. How Can Web3 Be the Infrastructure of AI Applications? - Taipei 2023",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "8GBNl3enI3g",
+      "title": "27. Open Source Communities and Its Contribution to Building Public Goods - Taipei 2023",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "PrTRt1-b5-4",
+      "title": "32. Finding the Future for Labor in Social and Solidarity Economy - Taipei 2023",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "k_KTi8_HSv4",
+      "title": "NA",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "ecD6wGShePI",
+      "title": "NA",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "hZCjkyBxyzo",
+      "title": "NA",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "pOUFxXoqQL0",
+      "title": "Morning Workshop Introductions #1 - Tokyo 2024",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "O6CjTgWoaWM",
+      "title": "Innovation Implemented by Public-Private Co-Creation - Tokyo 2024",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "Xw69CMR2Nfw",
+      "title": "Laboratory Automation & Robotic Crowd Biology - Tokyo 2024",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "86kFloyfDtY",
+      "title": "The Role of Emerging Technologies in Japan’s National Economic Strategy - Tokyo 2024",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "zDL3YR27biI",
+      "title": "Web3 Innovation in Japan (Fireside Chat) - Tokyo 2024",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "Brlnkpkpjek",
+      "title": "Japan’s Preprint Server: Jxiv - Tokyo 2024",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "Ku6GjwE1JxM",
+      "title": "Science, Technology, and Citizenship - Tokyo 2024",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "csOAwohg-fw",
+      "title": "Academic Incubation for Humanities & Social Science - Tokyo 2024",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "2ynDb9v2LgA",
+      "title": "Closing Words - Tokyo 2024",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "ET5FPWTTsDE",
+      "title": "Open Conversations: Can We Bring the Campus Economy Onchain? (Fernanda Tello)",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "_pToA8iFwqA",
+      "title": "Open Conversations: When Crypto Meets Institutions (Fernando Boiero)",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "XHsZHKcf1KI",
+      "title": "Open Conversations: Reconciling Public Goods with a Capitalistic Framework (Ken Suzuki)",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "SLTVObKwQy4",
+      "title": "Open Conversations: Building Public Goods to Expand Human Freedom (Chris Szymczak)",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "tpLj5AHVn1g",
+      "title": "Open Conversations: Economics as the Interconnectedness of Things (Navroop Sahdev)",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "EdyFlOum6qY",
+      "title": "NA",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "FhUJyw18410",
+      "title": "Measuring impact of open source software (Web2) - Berkeley 2024",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "mv7N1o1hoSs",
+      "title": "Open Source Conversational AI - Berkeley 2024",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "WorXRpBYX70",
+      "title": "NA",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "egbLrdOeXOg",
+      "title": "NA",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "Y7aBGCJDkEs",
+      "title": "NA",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "QFWc-T0EgaM",
+      "title": "NA",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "bGvszDYa0CE",
+      "title": "NA",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "Zst0XYXC9f4",
+      "title": "NA",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "WMeCPvAxWxw",
+      "title": "NA",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "ffogEKxq1ac",
+      "title": "NA",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "Y6vQ6NUNmMY",
+      "title": "NA",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "FcoAjLyLCVo",
+      "title": "11. Public Goods Hackathon Winners Announced - Berlin 2023",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "ZkrWF5LcyN0",
+      "title": "15. Unpaid Position: Building a Better and More Sustainable Future for Cultural Public Goods",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "IaitULKUjMs",
+      "title": "18. Ecoweaving: Collective Action for the Eco-Commons - Berlin 2023",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "5iwL0LWfdOQ",
+      "title": "21. Octant and Beyond: Ideas for Regenerative Web3 Self-Funding - Berlin 2023",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "jRfzJxcVKRQ",
+      "title": "22. From Hypercerts to Hyperboards: Advancing Modern Impact Funding Systems - Berlin 2023",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "sQ9ig5wwt2E",
+      "title": "19. Introducing DEEP: A Pathway Toward Flipping the Economics of Ecology - Berlin 2023",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "BJTGP_JqZl8",
+      "title": "02. Funding the Commons Berlin Builder Residency Update",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "0ohJHgWNC2Q",
+      "title": "3. Retroactive Public Goods Funding: 2 Years In",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "3yMWDVGPreE",
+      "title": "8. Infrastructuring open Conspiracies - Berlin 2023",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "XnX2WlUDuOo",
+      "title": "3. Network Funding Updates - Lisbon 2022",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "MRmLv2TG2Io",
+      "title": "6. Funding DAOS with SuperPACs - Lisbon 2022",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "YaGfNDeQal4",
+      "title": "8. A ‘Governance Layer’ for the Decentralised Web - Lisbon 2022",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "EXMDCiCTkWw",
+      "title": "9. A Regenerative VC Alternative - Lisbon 2022",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "4X9rb4FgLCI",
+      "title": "12. Hypercert Scenarios: Presentation and Workshop - Lisbon 2022",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "T4nIh4RnqI8",
+      "title": "Intro: Closing The Innovation Chasm - Juan Benet",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "i_t4VhisO1Y",
+      "title": "Funding public goods — algorithms and mechanisms - Vitalik Buterin",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "WadCRStTwag",
+      "title": "Story of a network-funded team - Raul Jordan",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "XBPLLV8cS_A",
+      "title": "How can public goods be profitable? - Miles Jennings & Marta Belcher",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "5cJKIcc7oBA",
+      "title": "Retroactive Public Goods Funding Experiment 1 - Karl Floersch",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "jWivz6KidkI",
+      "title": "S-process funding - Andrew Critch",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "dpLtrugjfMc",
+      "title": "Impact Evaluators - Evan Miyazono",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "e0hi2QoJOV8",
+      "title": "Data Commons for Public Good - Dawn Song",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "10SbI54vNXQ",
+      "title": "Closing Remarks - Juan Benet",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "zkEPnwWMnEM",
+      "title": "Improvements to the S-Process - Andrew Critch",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "hHWpcUFyggM",
+      "title": "NA",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "RM7UFpSemjA",
+      "title": "Plural Funding - Glen Weyl & Leon Erichsen",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "-DKwpZ8Q1Hg",
+      "title": "Two Novel Mechanisms for Funding and Discovering Public Goods - Alex Tabarrok",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "vnbxJ8ChcYw",
+      "title": "Funding the Commons Day 1 Wrap-up - Evan Miyazono",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "TTNAzKsfon8",
+      "title": "Introducing Network Funds - Funding Public Goods for Fun and Profit - Juan Benet",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "acbBeGcevok",
+      "title": "Interoperable mechanisms for non-rival goods (Hypercerts) - David \"davidad\" Dalrymple",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "zVpQEX0dtxQ",
+      "title": "Catalysing innovation and public goods funding in the Carbon Removal ecosystem - Daniel Pike",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "-iro_kAXIJ0",
+      "title": "Borderless public goods and interplanetary publics - Jessy Kate Schingler",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "Nw70xlL5eBU",
+      "title": "Tech trees & DAOs to advance ambitious science & tech - Allison Duettmann",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "f3s8Mdlg4is",
+      "title": "Networked Good - To the future - Evan Miyazono",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "RX7k8dahPZ0",
+      "title": "Welcome to Funding the Commons - March 2022 - Evan Miyazono & Karola Kirsanow",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "FM_QUQfpwQA",
+      "title": "Funding The Commons - March 4 2022",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "E8eU1e6hJo4",
+      "title": "Funding The Commons - March 3, 2022",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "SHjLW5ATymI",
+      "title": "Funding the Commons kickoff with Evan Miyazono",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "5EfQebFt6wY",
+      "title": "Priorities for Public Goods Builders in 2022 with Juan Benet",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "nSbSRaA2VNo",
+      "title": "The capitalists case against self sovereignty with Sara Horowitz",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "C-noC1s8YJ0",
+      "title": "Crowdfunding and the alignment of incentives with Katrin Tinn",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "MO24bjrYN7U",
+      "title": "Decentralized Societies",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "hNKkB7EQTOU",
+      "title": "Building a Regen Alliance",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "22LU2KhzZoQ",
+      "title": "Unitary Fund  experiments in public goods funding in quantum technologies with Will Zeng",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "xV_zeJaEx5M",
+      "title": "Comprehensive advances and commons sins with SJ Klein",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "pZI3v_L-xnA",
+      "title": "Algorithms as Policy with Michael Zargham",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "8kLmRkkPoKo",
+      "title": "Fireside chat with Tim Roughgarden",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "jpGLN35jhZo",
+      "title": "Daily Kickoff with Matt Frehlich",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "jzVf25RbUnY",
+      "title": "Democracy, Participation, and Mechanisms: What to do when participation is unrepresentative?",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "l74c0FIuKY0",
+      "title": "Measurement Systems & Contributor Rewards",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "G_fxcS9h3C0",
+      "title": "A Collaborative Map of the Intellegent Cooperation Landscape with Ying Tong Lai",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "_OigstiUqVo",
+      "title": "Towards Paretotopia  Visualizing Voluntarily Cooperation",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "KpiRlyeYVDs",
+      "title": "Blockchain Education as a public good with Kate Sills",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "Yl0KH0bNInc",
+      "title": "Fluid Quadratic Finance: Cultivating Trust with a Flexible Public Goods Funding Model",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "Pmg9za7mu7I",
+      "title": "Plural Markets and the Creative Uncertainty of Open Source with Petar Maymounkov",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "OsAr7uzUw0s",
+      "title": "Peer Review as a public good with Darren Zhu",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "P0KUt2yrUkw",
+      "title": "Research Roadmapping with Discourse Graphs — mapping out investments in scientific public goods",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "VA45iMwSJts",
+      "title": "Standards in the Real World with David Lang",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "aOt7ghZAfkw",
+      "title": "Closing Remarks with Evan Miyazono",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "chqOW9LaYRg",
+      "title": "Impact Capitalism Via Early Stage Deep Tech VC with Ela Madej",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "os9OIza22aw",
+      "title": "Ownership and Revenue in Scientific Discoveries  IP NFTs with James Sinka",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "13rex64MQL4",
+      "title": "Network Funds: Decentralized Investment Structures for Public Goods and Commons | Juan Benet",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "zvxsVPg-8y0",
+      "title": "Regenerative ICOS & IPOs with Oliver Sauter",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "SvbPE1XNd7o",
+      "title": "Adaptive Finance   Risk Adjusted Bonding Curves with Shaun Conway",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "tmBFUfIE4jY",
+      "title": "Unitary Fund  experiments in public goods funding in quantum technologies with Will Zeng",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "BzpkMkX_4ZI",
+      "title": "Interoperable Grants 2.0",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "TPFaC0ma5FA",
+      "title": "Unleashing Refi's ecosystem value with Ataberk Casur",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "CeYvBYUuVk0",
+      "title": "Public Goods - the long and short of it",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "2hOhOdCbBlU",
+      "title": "Hypercerts: on-chain primitives for impact markets with David Dalrymple",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "54bIvIPAHog",
+      "title": "1. Funding the Commons, an Incubation Ecosystem for Public Goods Funding Infrastructure - Paris 2023",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "s6JI648wh_A",
+      "title": "2. A case study: Network Goods in Protocol Labs - Paris 2023",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "RKMnHkIQiQU",
+      "title": "6. An Attractor for Public Goods Funding - Paris 2023",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "Zy5_A7ouGVE",
+      "title": "8. The Open Web is NEAR: How BOS, NDC, and DAOs are Creating a Decentralized Web - Paris 2023",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "nTqNIRjKvqA",
+      "title": "10. Soulbound Reputation Tokens to the Rescue - Paris 2023",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "zuww0IMxU8M",
+      "title": "11. The Future is Collective - Paris 2023",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "erc-EMQ2N1k",
+      "title": "13. Contribution Theory of Value: On the Evolution of Markets and Commons - Paris 2023",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "UY6vPWiU_ws",
+      "title": "4. How ReFi Will Change the World - Paris 2023",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "AyfSNlOe78A",
+      "title": "15. Zuzalu: A First-of-its-kind IRL Pop-up Community Experiment - Paris 2023",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "9tVLFFnjFhU",
+      "title": "18. Roadmapping for Impact Funding - Paris 2023",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "hKHvMITZdaM",
+      "title": "20. FWD (Free World Dialup) or The History of the Future - Paris 2023",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "gZqR1YtUmUE",
+      "title": "21. Why DePIN Matters - Paris 2023",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "qipKu2jcXNA",
+      "title": "24. What Money Can't Buy: The Limits of Ecosystem Funding - Paris 2023",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "v34j8dVRd-g",
+      "title": "25 . Grants for (Public) Good: Establishing Resilient, Democratic Funding Mechanisms - Paris 2023",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "mN-ql7le2o4",
+      "title": "26. Retro Public Harms and Behavioral Game Theory Solutions - FtC Paris 2023",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "uYcGxt20q0w",
+      "title": "27. Is Capitalism Really the Problem? - FtC Paris 2023",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "pyvVu4LCt3Q",
+      "title": "30. Data Provenance and the Climate Crisis - FtC Paris 2023",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "Z4q7-xZJWI4",
+      "title": "31. Public Goods That Will Onboard the Next Billion - FtC Paris 2023",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "QCveTkdvdVA",
+      "title": "32. GainForest (AI x climate x web3) - FtC Paris 2023",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "-IyU0F9mDUE",
+      "title": "34. Controllable AI for a Safer, More Ethical Future - FtC Paris 2023",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "aqvPUMWKeBE",
+      "title": "12. Funding the Commons or Funding the Youth? - Paris 2023",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    }
+  ],
+  "cues": 134817,
+  "captionSource": {
+    "manual": 0,
+    "auto": 319
+  },
+  "windows": 11256,
+  "speakers": 132
+}
